@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/main.ba1ed8b1.chunk.js",
+    "main.js.map": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/main.ba1ed8b1.chunk.js.map",
+    "runtime-main.js": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/runtime-main.4df64be4.js",
+    "runtime-main.js.map": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/runtime-main.4df64be4.js.map",
+    "static/js/2.0fcace88.chunk.js": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/2.0fcace88.chunk.js",
+    "static/js/2.0fcace88.chunk.js.map": "https://sakshikaleves.github.io/csb-rrh5ny/static/js/2.0fcace88.chunk.js.map",
+    "index.html": "https://sakshikaleves.github.io/csb-rrh5ny/index.html",
+    "precache-manifest.f328f680d2e658ee77b8cbf224cb168a.js": "https://sakshikaleves.github.io/csb-rrh5ny/precache-manifest.f328f680d2e658ee77b8cbf224cb168a.js",
+    "service-worker.js": "https://sakshikaleves.github.io/csb-rrh5ny/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df64be4.js",
+    "static/js/2.0fcace88.chunk.js",
+    "static/js/main.ba1ed8b1.chunk.js"
+  ]
+}
